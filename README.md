@@ -1,3 +1,3 @@
 - 👋 Olá, sou @kaah-kz, tenho 19 anos e estou há quase 1 ano no ramo da programação.
-- Ser front-end é uma das minhas maiores paixões! <3
+- Front-End <3
 - Publico meus códigos para que outras pessoas possam aprender junto a mim.
