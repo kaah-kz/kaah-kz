@@ -1,3 +1,2 @@
 - 👋 Olá, sou @kaah-kz, tenho 19 anos e estou há 1 ano no ramo da programação.
 - Front-End <3
-- Publico meus códigos para que outras pessoas possam aprender junto a mim.
