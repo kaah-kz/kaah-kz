@@ -1,2 +1,2 @@
-- 👋 Olá, sou @kaah-kz, tenho 19 anos e estou há 1 ano no ramo da programação.
+- 👋 Olá, me chamo Karol, tenho 19 anos e estou há mais de 1 ano no ramo da programação.
 - Front-End <3
