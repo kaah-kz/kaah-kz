@@ -1,16 +1,23 @@
-## Hi there 👋
+### Olá, tudo bem? Me chamo Karol Ávila 😃
 
-<!--
-**kaah-kz/kaah-kz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karol%C3%A1vila)
 
-Here are some ideas to get you started:
+![Karol GitHub stats](https://github-readme-stats.vercel.app/api?username=kaah-kz&show_icons=true&theme=highcontrast)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que uso:
+
+<div style="display: inline_block"><br/>
+    <img aling="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img aling="center" alt="css" src="    https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&"/>
+    <img aling="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div></br>
+
+Sou técnica em Desenvolvimento de Sistemas formada pela Etec de Embu das Artes, e atualmente curso Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul.
+
+Sempre fui curiosa, amo descobrir e reedescobrir assuntos que façam meu desenvolvimento pessoal e intelectual crescer. Com 18 anos descobri minha paixão por programação.
+
+Um mundo infinito e de possibilidades.
+
+Pretendo ter um conhecimento sempre contínuo.
+Adoro o universo de Front-End, mas confesso que meu coração bate forte quando falo de back-end e lógica de programação. Mas vamos a fundo, sempre estudando e se conectando. Mais que aprender programação é aprender sobre mim mesma. 🖥️🎯
