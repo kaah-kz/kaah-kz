@@ -21,5 +21,4 @@ Sempre fui curiosa, amo descobrir e reedescobrir assuntos que façam meu desenvo
 
 Um mundo infinito e de possibilidades.
 
-Pretendo ter um conhecimento sempre contínuo.
-Adoro o universo de Front-End, mas confesso que meu coração bate forte quando falo de back-end e lógica de programação. Mas vamos a fundo, sempre estudando e se conectando. Mais que aprender programação é aprender sobre mim mesma. 🖥️🎯
+Pretendo ter um conhecimento contínuo, sempre estudando e se conectando. Mais que aprender programação é aprender sobre mim mesma. 🖥️🎯
