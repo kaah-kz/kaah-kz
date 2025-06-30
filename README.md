@@ -21,4 +21,4 @@ Sempre fui curiosa, amo descobrir e reedescobrir assuntos que façam meu desenvo
 
 Um mundo infinito e de possibilidades.
 
-Pretendo ter um conhecimento contínuo, sempre estudando e se conectando. Mais que aprender programação é aprender sobre mim mesma. 🖥️🎯
+Com conhecimento contínuo, sempre estudando e se conectando. Mais que aprender programação é aprender sobre mim mesma. 🖥️🎯
