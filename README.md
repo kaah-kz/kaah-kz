@@ -2,7 +2,7 @@
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karol%C3%A1vila)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaah-kz&show_icons=true&theme=highcontrast&cache_seconds=2
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaah-kz&show_icons=true&theme=highcontrast&cache_seconds=1
 )
 
 
